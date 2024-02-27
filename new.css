@@ -1,0 +1,15 @@
+h2{
+text-align: center;
+font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: blue;
+z-index: 2;
+}/*class selector and element selector :class and id G*/
+h1 {
+    color: navy;
+     background-color: rgb(147, 209, 229); 
+    margin: 20px 100px 90px 50px; /*in clock wise start from the top to the left side*/
+    border: 20px 100px 90px 50px ; 
+    padding: 20px;
+    z-index: 1; /*border,padding,margin is called as boxmodel*/
+  }/*typography*/

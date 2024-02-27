@@ -1,0 +1,127 @@
+.name {
+
+    font-weight:bolder;
+}
+
+.ads {
+    color: aliceblue;
+    font-style: italic;
+   
+}
+
+.about {
+    color: orange;
+
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+
+.details {
+    color: aliceblue;
+   
+    font-style: italic;
+    text-align: justify;
+    align-self: auto;
+
+}
+
+.education {
+    color: orange;
+   
+    font-weight: bolder;
+
+}
+
+.qualification {
+    color: aliceblue;
+    
+    font-style: italic;
+}
+
+.skill {
+    color: orange;
+   
+    font-style: bolder;
+}
+
+.c1 {
+    color: aliceblue;
+   
+    font-style: italic;
+}
+
+.certification {
+    color: orange;
+    
+    font-weight: bolder;
+}
+
+.course {
+    color: aliceblue;
+   
+    font-style: italic;
+}
+
+.course a {
+    color: orange;
+}
+
+.course a:hover {
+    color: aliceblue;
+}
+
+.ct {
+    color: orange;
+   
+}
+
+.git a {
+    color: orange;
+    
+}
+
+.git a:hover {
+    color: aliceblue;
+
+}
+
+.linkedin a {
+    color: orange;
+    
+}
+
+
+.linkedin a:hover {
+    color: aliceblue;
+}
+
+.email a {
+    color: orange;
+    
+}
+
+.email a:hover {
+    color: aliceblue;
+}
+
+.project {
+    color: orange;
+   
+    font-weight: bolder;
+}
+
+
+.pro {
+    color: aliceblue;
+    
+    font-style: italic;
+}
+
+.pro a {
+    color: orange;
+}
+
+.pro a:hover {
+    color: aliceblue;
+}
